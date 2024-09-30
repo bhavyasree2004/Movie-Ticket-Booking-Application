@@ -1,1 +1,2 @@
 # Movie-Ticket-Booking-Application
+Developed a backend application that allows users to view, add, update, and delete movies with unique IDs. Implemented robust error handling for duplicate and non-existent movie IDs to maintain data integrity. Integrated a Rest Template to manage movie ratings, enabling retrieval, posting, updating, and deletion of ratings from an external service. Applied exception handling to ensure smooth operation across the system.
